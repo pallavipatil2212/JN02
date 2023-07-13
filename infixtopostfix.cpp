@@ -1,4 +1,4 @@
-//Program demonstrate of infix to postfix using C++ by Palavi Patil
+//Program demonstrate of infix to postfix using C++ by Pallavi Patil
 #include<iostream>
 #include<stack>
 using namespace std;
