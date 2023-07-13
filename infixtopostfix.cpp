@@ -1,4 +1,4 @@
-//Program demonstrate of infix to postfix using C++ by Pallavi Patil
+//Program demonstrate of infix to postfix using C++ by Palavi Patil
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -101,6 +101,5 @@ int main()
 	cout<<"INFIX EXPRESSION: "<<infix_exp<<endl;
   	postfix_exp = InfixToPostfix(stack, infix_exp);
   	cout<<endl<<"POSTFIX EXPRESSION: "<<postfix_exp;
-	  
 	return 0;
 }
